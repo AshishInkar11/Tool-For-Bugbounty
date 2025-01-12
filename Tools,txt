@@ -1,0 +1,15 @@
+kali tools
+
+subfinder >>> Finding subdoain in target  
+use>> subfinder -d domain_name 
+
+subzy >>>>finding Vuln subdomain 
+subzy run --targets path_of_txt_file 
+
+
+subjs >> >> finding the .js file in domain
+
+kATANA TOOL>>> For  Finding java script file for finding sensetive information 
+
+katana -list file_path -jc | grep ".js$"  > out_put_file_name
+
